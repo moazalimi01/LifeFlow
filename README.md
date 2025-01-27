@@ -1,2 +1,2 @@
 # LifeFlow
-An all stop blood requirement for all
+An one stop blood requirement for all
